@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-  base : "/yusuf-web"
+  base : "/web-porto"
 })
